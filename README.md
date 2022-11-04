@@ -8,9 +8,9 @@ XLogger is an online application that can be used to log and keep trace of all k
 
 ## Technologies
 
-Django
-React
-MongoDB
+Django\
+React\
+MongoDB\
 Docker
 
 ## Development plan
