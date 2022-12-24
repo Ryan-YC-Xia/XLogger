@@ -2,6 +2,6 @@ version: "0.1"
 services:
   app:
     build: 
-      context: ./app
+      context: app
     ports:
       - "8000:8000"
